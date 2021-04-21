@@ -1,7 +1,11 @@
 # MDP - Raspberry Pi (Communication)
 
-NTU School of Computer Science and Engineering (AY2020/21 S2)
-CZ3004 Multidisciplinary Design Project
+NTU School of Computer Science and Engineering (AY2020/21 S2)  
+CZ3004 Multidisciplinary Design Project (MDP)
+
+The objective of the project is to design, build and implement a robotic system (robot) that can autonomously explore and traverse an unknown arena (dimensions of 2m x 1.5m with 15cm walls) while avoiding obstacles. While doing so, the robot, controlled by an Android device, can also detect and recognise a variety of images placed around the area, all while performing and calculating the fastest and most optimal path from point X to point Y through a predefined way point.  
+  
+This repository focuses on Kristy's effort in the project - Communication between all devices involved via the Raspberry Pi.
 
 ### Role of the RPi
 ![alt text](https://github.com/kristy-chng/MDP-RaspberryPi/blob/main/high-level-architecture.png?raw=true)
