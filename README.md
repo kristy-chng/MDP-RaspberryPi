@@ -4,6 +4,8 @@ NTU School of Computer Science and Engineering (AY2020/21 S2)
 CZ3004 Multidisciplinary Design Project (MDP)
 
 The objective of the project is to design, build and implement a robotic system (robot) that can autonomously explore and traverse an unknown arena (dimensions of 2m x 1.5m with 15cm walls) while avoiding obstacles. While doing so, the robot, controlled by an Android device, can also detect and recognise a variety of images placed around the area, all while performing and calculating the fastest and most optimal path from point X to point Y through a predefined way point.  
+
+Project Video Link: https://bit.ly/3egI8OU
   
 This repository focuses on the communication between all devices involved in the project.
 
